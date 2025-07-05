@@ -1,5 +1,4 @@
 # Firefighting Robot
-
 This project is a flame-detecting robot built using Arduino. The robot uses three IR flame sensors to detect the direction of a flame and a submersible water pump to extinguish it.
 
 ## Features
