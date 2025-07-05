@@ -28,10 +28,9 @@ This project is a flame-detecting robot built using Arduino. The robot uses thre
 
 The robot continuously checks its IR sensors. Based on which sensor detects the flame, it turns in that direction. When the front sensor detects the flame, the robot moves forward and stops. It then activates the water pump and sweeps the servo to spray water side-to-side.
 
-## Demo and Code
+## Demo
 
 - Demo Video: [YouTube](https://youtube.com/shorts/Bu0i_9VdLD8?feature=share)  
-- Code: [GitHub Link](https://github.com/Shumel-coder/FireFightingRobot/blob/main/FireFightingRobot.ino)
 
 ## Skills Used
 
