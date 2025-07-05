@@ -1,4 +1,7 @@
 # Firefighting Robot
+
+![Firefighting Robot](https://raw.githubusercontent.com/Mahamadou4/Fire-Fighting-Robot/main/images/robot.jpg)
+
 This project is a flame-detecting robot built using Arduino. The robot uses three IR flame sensors to detect the direction of a flame and a submersible water pump to extinguish it.
 
 ## Features
